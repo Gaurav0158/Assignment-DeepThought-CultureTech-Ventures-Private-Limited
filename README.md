@@ -1,0 +1,2 @@
+# Assignment-DeepThought-CultureTech-Ventures-Private-Limited
+This repository contains my submission for the DeepThought Business Analytics Internship assignment.  The objective of this assignment was to identify and evaluate Indian manufacturing companies that fit DeepThought’s “Federer” profile — companies that are growth-oriented, technically driven, and focused on building in-house capabilities.
